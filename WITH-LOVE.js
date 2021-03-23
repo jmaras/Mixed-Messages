@@ -10,7 +10,7 @@ let worship = [
   "I love you so much!",
   "Yours forever,",
   "I wanna touch your butt badly.",
-  "Let's fly to the moon together!",
+  "Let's fly to the moon!",
   "Ouuuweee!!!",
 ];
 
