@@ -1,0 +1,1 @@
+console.log('Welcome to "WITH-LOVE", the love message creator');
