@@ -1,5 +1,10 @@
 # Mixed-Messages
 
-## Secret Crush Bot:
+## Love Message Bot
 
-"Welcome to this *amazing* Codecademy project! Sit down, relax and enjoy the **Love Message Creator**" 💙 💙 💙
+"Welcome to this *amazing* Codecademy project!<br>
+Sit down, relax and enjoy the **Love Message Creator**" 💙 💙 💙
+
+### *Note*
+
+Beware the **console.log()** !
