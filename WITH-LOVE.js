@@ -15,6 +15,10 @@ const messageGenerator = {
   "Ouuuweee!!!"
   ]
 }
+
+// More messages can be added to object above
+
+
 console.log(
   `Welcome to "WITH-LOVE", the love message creator. Your Love Message is: "Hey ${
     messageGenerator.salution[Math.floor(Math.random() * messageGenerator.salution.length)]
